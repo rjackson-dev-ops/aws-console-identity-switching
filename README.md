@@ -116,6 +116,8 @@ Also using lots of SSBs can consume quite a bit of system resources.
 ### AWS Networking
 I use this stragegy at 3M. I use the AWS Extend Switch extension to switch between accounts shared on a SSB.
 
+Federated login allows you to easily assume roles in many diferent accounts.
+
 1) Regional Networking
 - Separate SSB for each production region
 - One Dev SSD for all Dev Regional Netowrks
@@ -126,6 +128,8 @@ I use this stragegy at 3M. I use the AWS Extend Switch extension to switch betwe
 - SSB for Prod, SSB for Dev
 4) CTower Role
 - SSB for Prod, SSB for Dev
+5) AWS Mirror Console
+- SSB for a "Mirror" console, for Comparison
 
 ### Organizational Roles
 1) Admin
