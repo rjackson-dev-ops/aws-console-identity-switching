@@ -141,11 +141,22 @@ Federated login allows you to easily assume roles in many diferent accounts.
 - [Epicrhome](https://github.com/dmarmor/epichrome)
 - My favorite SSB for Mac
 - Developer has announced he's done at the end of the Year
+- Free, accepting donations
 2) Coherence
 - [Coherence](https://www.bzgapps.com/coherence)
-- $30
+- $30 per machine
+- Mac/Windows
 - Will Probably move to this one
-3) Firefox Multi-Account
+- Not as smooth as Epichrome
+3) WebCatalog
+- $40 for unlimited machines
+- Mac, Linux, Windows
+- Doesn't really work for me
+4) Firefox Multicontainer
+- Not really an SSB
+- Great session Management
+- Free
+- I use this on Linux and when Epichrome didn't work for me.
 
 ## Other Tools
 
@@ -157,3 +168,9 @@ Window management on Mac/Windows.
 - Very efficient MFA
 - [Authy](https://authy.com/)
 - Twilio
+
+## Password Manager
+- A really nessity for managed many accounts/applications
+
+## Clipboard Manager
+- Lots of cutting and pasting here.
