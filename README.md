@@ -114,7 +114,7 @@ It reall depends on how much you use an account and how how you use it.
 It does take some time to create and maintain each SSB.
 Also using lots of SSBs can consume quite a bit of system resources.
 ### AWS Networking
-I use this stragegy at 3M. I use the AWS Extend Switch extension to switch between accounts shared on a SSB.
+I use this stragegy at my current client. I use the AWS Extend Switch extension to switch between accounts shared on a SSB.
 
 Federated login allows you to easily assume roles in many diferent accounts.
 
